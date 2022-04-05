@@ -1,5 +1,7 @@
 # swift-tutorial
 
+Status: Project is currently not active due to change of focus on Golang.
+
 ![Swift programming language](/swift.jpeg)
 
     
