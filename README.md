@@ -1,6 +1,6 @@
 # swift-tutorial
 
-Status: Project is currently not active due to change of focus on Golang.
+Status: Project is currently not active as of 05 Apr 2022
 
 ![Swift programming language](/swift.jpeg)
 
